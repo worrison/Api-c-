@@ -1,0 +1,14 @@
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.RazorAssemblyInfo.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.RazorAssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\bin\Debug\netcoreapp2.2\Todo.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\bin\Debug\netcoreapp2.2\Todo.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\bin\Debug\netcoreapp2.2\Todo.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\bin\Debug\netcoreapp2.2\Todo.dll
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\bin\Debug\netcoreapp2.2\Todo.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.RazorTargetAssemblyInfo.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.dll
+C:\Users\formacion.GTT.000\Desktop\c#\Todos\Todo\obj\Debug\netcoreapp2.2\Todo.pdb
